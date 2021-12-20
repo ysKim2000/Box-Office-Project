@@ -1,0 +1,1 @@
+{"id":38,"regDate":"2021-12-16 23:10:58","loginId":"kys","loginPw":"qwe123","loginBirth":"20000411","regName":"kimyunseo"}
